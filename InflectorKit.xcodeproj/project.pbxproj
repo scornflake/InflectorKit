@@ -18,10 +18,10 @@
 		28BB89FF1D8E159600558D9E /* InflectorKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = InflectorKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		28BB8A021D8E159600558D9E /* InflectorKit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = InflectorKit.h; sourceTree = "<group>"; };
 		28BB8A031D8E159600558D9E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		28BB8A0A1D8E15AE00558D9E /* NSString+InflectorKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSString+InflectorKit.h"; path = "../../NSString+InflectorKit.h"; sourceTree = "<group>"; };
-		28BB8A0B1D8E15AE00558D9E /* NSString+InflectorKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSString+InflectorKit.m"; path = "../../NSString+InflectorKit.m"; sourceTree = "<group>"; };
-		28BB8A0C1D8E15AE00558D9E /* TTTStringInflector.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TTTStringInflector.h; path = ../../TTTStringInflector.h; sourceTree = "<group>"; };
-		28BB8A0D1D8E15AE00558D9E /* TTTStringInflector.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TTTStringInflector.m; path = ../../TTTStringInflector.m; sourceTree = "<group>"; };
+		28BB8A0A1D8E15AE00558D9E /* NSString+InflectorKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+InflectorKit.h"; sourceTree = "<group>"; };
+		28BB8A0B1D8E15AE00558D9E /* NSString+InflectorKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+InflectorKit.m"; sourceTree = "<group>"; };
+		28BB8A0C1D8E15AE00558D9E /* TTTStringInflector.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTTStringInflector.h; sourceTree = "<group>"; };
+		28BB8A0D1D8E15AE00558D9E /* TTTStringInflector.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTTStringInflector.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -308,6 +308,7 @@
 				28BB8A091D8E159600558D9E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
